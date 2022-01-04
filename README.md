@@ -13,5 +13,4 @@
   ##
 
 - 🌱 Atualmente estou aprendendo HTML & CSS
-
 ![Snake animation](https://github.com/Arcanist011/Arcanist011/blob/output/github-contribution-grid-snake.svg)
