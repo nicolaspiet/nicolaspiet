@@ -1,9 +1,9 @@
 ## Olá, meu nome é Nicolas e sou estudante de programação.
 
-<div align="center">
+<div>
   <a href="https://github.com/nicolaspiet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaspiet&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiet&layout=demo&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiet&layout=demo&langs_count=7&theme=apprentice"/>
 </div>
 
 </div>
