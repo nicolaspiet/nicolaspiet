@@ -17,7 +17,7 @@
   ##
 
 <div align="center">
-Atualmente estou aprendendo HTML & CSS
+Atualmente estou aprendendo JavaScript
 </div>
 
 <div align="center">
