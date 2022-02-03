@@ -1,5 +1,8 @@
-<h2 align="center">Olá, meu nome é Nicolas e sou estudante de programação.</h2>
+<h3 style="font-size: 2rem;font-weight:bold" align="center">Olá, meu nome é Nicolas</h1>
 
+<h1 align="center">Um jovem estudante de programação.</h2>
+<p align="center">Piauí 🌵</p>
+<br>
 <div align="center" style="text-align: center;">
   <a href="https://github.com/nicolaspiet">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nicolaspiet&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
