@@ -6,7 +6,7 @@
 <div align="center" style="text-align: center;">
   <a href="https://github.com/nicolaspiet">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nicolaspiet&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img margin-left="5px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiet&layout=compact&langs_count=3&theme=apprentice"/>
+  <img margin-left="5px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiet&layout=compact&langs_count=5&theme=apprentice"/>
 <a/>
 </div>
 
