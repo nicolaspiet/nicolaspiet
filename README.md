@@ -22,7 +22,7 @@
   ##
 
 <div align="center">
-Atualmente estou aprendendo JavaScript
+Atualmente estou aprendendo Bootstrap
 </div>
 
 <div align="center">
