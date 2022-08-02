@@ -1,6 +1,4 @@
-<h3 style="font-size: 2rem;font-weight:bold" align="center">Olá, meu nome é Nicolas</h1>
-
-<h1 align="center">Um jovem estudante de programação.</h2>
+<h1 align="center">Olá, meu nome é <span style="font-weight:bolder">Nicolas</span></h1>
 <p align="center">Piauí 🌵</p>
 <br>
 <div align="center" style="text-align: center;">
