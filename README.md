@@ -20,13 +20,15 @@
   <h3 align="center">Languages and Tools:</h3>
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
+  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nicolas-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Nicolas-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
 </div>
-
-  ##
-
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Nicolas-JetBrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" alt="Nicolas-JetBrains" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+</div>
+<br>
 <div align="center">
 Atualmente estou aprendendo React
 </div>
