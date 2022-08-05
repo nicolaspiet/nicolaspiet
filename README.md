@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é <span style="font-weight:bolder">Nicolas</span></h1>
+<h1 align="center">Nicolas Pietro</h1>
 <p align="center">Piauí 🌵</p>
 <br>
 <div align="center" style="text-align: center;">
@@ -7,6 +7,12 @@
   <img margin-left="5px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiet&layout=compact&langs_count=5&theme=apprentice"/>
 <a/>
 </div>
+
+<div align="center">
+
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
@@ -20,7 +26,7 @@
   ##
 
 <div align="center">
-Atualmente estou aprendendo Bootstrap
+Atualmente estou aprendendo React
 </div>
 
 <div align="center">
