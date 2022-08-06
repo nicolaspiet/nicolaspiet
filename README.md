@@ -11,7 +11,7 @@
 <div align="center">
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/nicolaspiet/jklm-word-bot)
 
 
 </div>
