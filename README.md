@@ -2,6 +2,8 @@
 
 # Hi there! 👋 I'm Nicolas.
 
+![](https://komarev.com/ghpvc/?username=nicolaspiet)
+
 <div align="center" style="text-align: center;">
   <a href="https://github.com/nicolaspiet">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nicolaspiet&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
