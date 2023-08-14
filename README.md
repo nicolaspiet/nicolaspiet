@@ -1,6 +1,7 @@
-<h1 align="center">Nicolas Pietro</h1>
-<p align="center">Piauí 🌵</p>
-<br>
+<div align="center">
+
+# Hi there! 👋 I'm Nicolas.
+
 <div align="center" style="text-align: center;">
   <a href="https://github.com/nicolaspiet">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nicolaspiet&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
@@ -8,33 +9,31 @@
 <a/>
 </div>
 
-<div align="center">
+<h2>Technologies I Work With</h2>
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## IDEs I Have Experience With
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+
+## Projects
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/nicolaspiet/jklm-word-bot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=nicolaspiet.github.io&theme=apprentice)](https://github.com/nicolaspiet/nicolaspiet.github.io)
 
+## Contact Me
 
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <h3 align="center">Languages and Tools:</h3>
-  <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nicolas-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Nicolas-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Nicolas-JetBrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
-  <img align="center" alt="Nicolas-JetBrains" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-</div>
-<br>
-<div align="center">
-Atualmente estou aprendendo React
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/nicolaspiet/nicolaspiet/blob/output/github-contribution-grid-snake.svg)
+GitHub: [nicolaspiet](https://github.com/nicolaspiet)<br>
+LinkedIn: Soon.<br>
+Email: arcanist015@protonmail.com
 
 </div>
