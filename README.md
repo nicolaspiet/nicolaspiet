@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Nicolas.
+# Hi there! 👋 I'm Nicolas Pietro.
 
 ![](https://komarev.com/ghpvc/?username=nicolaspiet)
 
@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-## Projects
+## Projects 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/nicolaspiet/jklm-word-bot)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=nicolaspiet.github.io&theme=apprentice)](https://github.com/nicolaspiet/nicolaspiet.github.io)
 
