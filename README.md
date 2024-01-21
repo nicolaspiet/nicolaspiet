@@ -18,7 +18,7 @@
 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=jklm-word-bot&theme=apprentice)](https://github.com/nicolaspiet/jklm-word-bot)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=lunachord&theme=apprentice)](https://github.com/nicolaspiet/lunachord)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolaspiet&repo=makemedoit&theme=apprentice)]([https://github.com/nicolaspiet/lunachord](https://github.com/nicolaspiet/makemedoit))
 
 
 **GitHub**: [nicolaspiet](https://github.com/nicolaspiet)<br>
