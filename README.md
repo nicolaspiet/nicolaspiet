@@ -22,7 +22,7 @@
 
 
 **GitHub**: [nicolaspiet](https://github.com/nicolaspiet)<br>
-**LinkedIn**: Soon.<br>
-**Email**: arcanist015@protonmail.com
+**LinkedIn**: [Nicolas Pietro](https://www.linkedin.com/in/nicolas-pietro-029769283/)br>
+**Email**: npietro356@gmail.com
 
 </div>
