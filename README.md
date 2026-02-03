@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,mongodb,expressjs,react,nodejs,html,css,bootstrap,git&theme=dark)](https://github.com/nicolaspiet)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,prisma,supabase,nextjs,python,mongodb,tailwind,expressjs,react,nodejs,html,css,bootstrap,git&theme=dark)](https://github.com/nicolaspiet)
   
 </p>
 
